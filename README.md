@@ -1,2 +1,2 @@
 # junopipe
-Pipeline for processing JunoCam images
+Pipeline for processing JunoCam images.
